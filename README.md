@@ -1,3 +1,5 @@
+[![Python 3.11](https://github.com/YuchenHe98/scaffold/actions/workflows/main.yml/badge.svg)](https://github.com/YuchenHe98/scaffold/actions/workflows/main.yml)
+
 # scaffold
 
 ## Setup
