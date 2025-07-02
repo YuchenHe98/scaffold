@@ -11,6 +11,17 @@ python3 -m venv ~/.scaffold
 source ~/.scaffold/bin/activate
 ```
 
+In google cloud shell the example given was:
+
+```bash
+python3 -m venv ~/.venv
+```
+and add "source ~/.venv/bin/activate" to ~/.bashrc, before finally calling:
+
+```bash
+source ~/.bashrc
+```
+
 It’s conventional to name the virtual environment the same as the repository name. After activating the environment, verify that python and pip point to the correct paths:
 
 ```bash
