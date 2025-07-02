@@ -11,7 +11,7 @@ python3 -m venv ~/.scaffold
 source ~/.scaffold/bin/activate
 ```
 
-In google cloud shell the example given was:
+In google cloud shell the example was automatic for every shell session and for all dev environments, not just "scaffold", given was:
 
 ```bash
 python3 -m venv ~/.venv
